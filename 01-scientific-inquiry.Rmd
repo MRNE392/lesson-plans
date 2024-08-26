@@ -19,10 +19,10 @@ Students should be able to:
 ## Resources
 
 * [Slides 01. Scientific inquiry](https://docs.google.com/presentation/d/1J_MQHerLhh3m3X6Nt_omx3b_K_YBR9RpqcHNmxg37pA/edit?usp=sharing)
-* [Milroy p 3-16 Ch 1: The foundations of scientific inquiry]() (slides and learning objectives are largely based on this chapter)
+* Milroy p 3-16 Ch 1: The foundations of scientific inquiry (slides and learning objectives are largely based on this chapter)
 * Papers that go into greater depth on observational vs. experimental ecology (optional)
-  * Sagarin & Pauchard 2010: Observational approaches in ecology open new ground in a changing world
-  * Wootton & Pfister 1998: The motivation for and context of experiments in ecology
+  * [Sagarin & Pauchard 2010: Observational approaches in ecology open new ground in a changing world](https://people.stfx.ca/rscrosat/eie13/Sagarin_Pauchard_2010.pdf)
+  * [Wootton & Pfister 1998: The motivation for and context of experiments in ecology](https://mrne392.github.io/lesson-plans/Wootton_Pfister_1998.pdf)
 
 
 ## Lesson plan
@@ -34,11 +34,11 @@ Students should be able to:
 
 ### 2. Course logistics
 
-* Course website home page link: . Bookmark this link - it has everything you need for the class. 
-* The syllabus contains information on assessment and class policies.
-* The schedule is the master organizer. All assignments and class notes, slides, lab exercises, etc. are linked here by date. 
+* Course website url:[https://mrne392.github.io/website/](https://mrne392.github.io/website/). Bookmark this link - it has everything you need for the class. 
+* The [syllabus](https://mrne392.github.io/website/syllabus.html) contains information on assessment and class policies.
+* The [schedule](https://mrne392.github.io/website/schedule.html) is our master organizer. All assignments, slides, lab exercises, etc. are linked here by date. 
 
 ### 3. Intro to field research and scientific inquiry
 
-* Slides
+<iframe src="https://docs.google.com/presentation/d/1J_MQHerLhh3m3X6Nt_omx3b_K_YBR9RpqcHNmxg37pA/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
