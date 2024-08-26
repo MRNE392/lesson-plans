@@ -1,0 +1,44 @@
+---
+title: "Scientific inquiry"
+output: html_document
+css: style.css
+---
+
+## Learning objectives
+
+Students should be able to:
+
+* list the requirements of a well-crafted hypothesis 
+* formulate a well-crafted research question and hypothesis based on an observation
+* describe the differences between a manipulative experiment and an observational study
+* identify independent and dependent variables in an experimental or observational study
+* identify experimental and control treatments in an experimental study
+* identify natural "experimental" and "control" treatments in an observational study
+
+
+## Resources
+
+* [Slides 01. Scientific inquiry](https://docs.google.com/presentation/d/1J_MQHerLhh3m3X6Nt_omx3b_K_YBR9RpqcHNmxg37pA/edit?usp=sharing)
+* [Milroy p 3-16 Ch 1: The foundations of scientific inquiry]() (slides and learning objectives are largely based on this chapter)
+* Papers that go into greater depth on observational vs. experimental ecology (optional)
+  * Sagarin & Pauchard 2010: Observational approaches in ecology open new ground in a changing world
+  * Wootton & Pfister 1998: The motivation for and context of experiments in ecology
+
+
+## Lesson plan
+
+### 1. Introductions
+
+* Share name & preferred pronouns, major(s)/minor(s), something fun or interesting you did this summer.
+* In groups: What is field research? Why do we do it? What are your research interests and why?
+
+### 2. Course logistics
+
+* Course website home page link: . Bookmark this link - it has everything you need for the class. 
+* The syllabus contains information on assessment and class policies.
+* The schedule is the master organizer. All assignments and class notes, slides, lab exercises, etc. are linked here by date. 
+
+### 3. Intro to field research and scientific inquiry
+
+* Slides
+
