@@ -6,4 +6,6 @@ css: style.css
 
 ## Learning objectives
 
+## Resources
+
 ## Lesson plan
