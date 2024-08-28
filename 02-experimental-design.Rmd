@@ -37,7 +37,7 @@ Students should be able to:
 ## Resources
 
 * [Slides](https://docs.google.com/presentation/d/1bZHVFvr005bMlQouhQhJPoQjVvFQeEzJovNruV90i1c/edit#slide=id.g2f6b502116f_0_66)
-* [Milroy Ch 3: Experimental design]()
+* [Milroy Ch 3: Experimental design](https://mrne392.github.io/lesson-plans/readings/Milroy_Ch3.pdf)
 
 ## Lesson plan
 
