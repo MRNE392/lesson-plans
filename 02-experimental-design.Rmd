@@ -1,0 +1,52 @@
+---
+title: "Experimental design"
+output: html_document
+css: style.css
+---
+
+## Housekeeping
+
+**Lab today**
+
+* Lab meets in SH 112 today, then we'll walk over to Kent, then over to the marsh near Wherritt's Pond
+* Wear long pants for the marsh (to protect from scratchy grass, bugs, mud)
+* Bring your boots (don't forget socks!)
+* We have lots of extra boots
+* Bring a pencil and notebook (only **pencil** works on the waterproof paper we use in the field; I have some extras)
+
+**Quiz on Tuesday**
+
+Will cover the learning objectives listed for today and Tuesday's class. Most of the content comes from the Milroy textbook (Ch 1 and 3). Some of it also comes from the Sagarin & Pauchard 2010 paper linked in Tuesday's notes. Remember to bring hand-written notes to use on the collaborative portion of the quiz! 
+
+**Species ID quiz on Thursday**
+
+You absolutely need to be able identify the marsh plant species we'll be working with in order to record accurate observations. You can bring your own plant ID guide with you to lab next week (paper or digital, but digital might be hard to see in the sun, it might rain, etc.). You'll have the opportunity to take photos, make drawings, and take notes about the species in lab today. The species you'll need to be able to identify at Point Lookout are listed [here](https://mrne392.github.io/assessment/marsh-species.html).
+
+## Learning objectives
+
+Students should be able to: 
+
+* Define the terms, research *goals* and *objectives*
+* Explain the goals and objectives of our marsh field project
+* Recognize whether a study is a method comparison, single-element assessment, multi-element correlation, or synthetic analysis
+* Discuss the benefits and drawbacks of plot-based and plotless sampling methods
+* Define simple random sampling and stratified random sampling
+* Explain when stratified random sampling is preferred over simple random sampling
+
+
+## Resources
+
+* [Slides](https://docs.google.com/presentation/d/1bZHVFvr005bMlQouhQhJPoQjVvFQeEzJovNruV90i1c/edit#slide=id.g2f6b502116f_0_66)
+* [Milroy Ch 3: Experimental design]()
+
+## Lesson plan
+
+### Lecture
+
+<iframe src="https://docs.google.com/presentation/d/1bZHVFvr005bMlQouhQhJPoQjVvFQeEzJovNruV90i1c/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" data-external="1"></iframe>
+
+### Lab
+
+[Lab activities](https://docs.google.com/document/d/1OA3DDQyh7cCk3lXg7iMWgie_O-QdNZEd0XM8uscr9qA/edit#heading=h.vlcnbn6jrdz0)
+
+<iframe src="https://docs.google.com/presentation/d/14PJIsHgIUrb91Qb_lKDQaTfdsYk7a6eWq0u9knjB5aY/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" data-external="1"></iframe>

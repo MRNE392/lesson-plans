@@ -19,10 +19,10 @@ Students should be able to:
 ## Resources
 
 * [Slides 01. Scientific inquiry](https://docs.google.com/presentation/d/1J_MQHerLhh3m3X6Nt_omx3b_K_YBR9RpqcHNmxg37pA/edit?usp=sharing)
-* Milroy p 3-16 Ch 1: The foundations of scientific inquiry (slides and learning objectives are largely based on this chapter)
+* [Milroy Ch 1 p 3-16](https://mrne392.github.io/lesson-plans/readings/Milroy_Ch1.pdf): The foundations of scientific inquiry (slides and learning objectives are largely based on this chapter)
 * Papers that go into greater depth on observational vs. experimental ecology (optional)
-  * [Sagarin & Pauchard 2010: Observational approaches in ecology open new ground in a changing world](https://people.stfx.ca/rscrosat/eie13/Sagarin_Pauchard_2010.pdf)
-  * [Wootton & Pfister 1998: The motivation for and context of experiments in ecology](https://mrne392.github.io/lesson-plans/Wootton_Pfister_1998.pdf)
+  * [Sagarin & Pauchard 2010: Observational approaches in ecology open new ground in a changing world](https://mrne392.github.io/lesson-plans/readings/Sagarin_Pauchard_2010.pdf)
+  * [Wootton & Pfister 1998: The motivation for and context of experiments in ecology](https://mrne392.github.io/lesson-plans/readings/Wootton_Pfister_1998.pdf)
 
 
 ## Lesson plan

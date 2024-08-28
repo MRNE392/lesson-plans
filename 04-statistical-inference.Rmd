@@ -1,10 +1,14 @@
 ---
-title: "Methods of data acquisition"
+title: "Template"
 output: html_document
 css: style.css
 ---
+## Housekeeping
 
 ## Learning objectives
+
+* sample size (Milroy Ch 3)
+*
 
 ## Resources
 
