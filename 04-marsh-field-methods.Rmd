@@ -1,5 +1,5 @@
 ---
-title: "Marsh study design"
+title: "Marsh field methods"
 output: html_document
 css: style.css
 ---
@@ -23,3 +23,5 @@ css: style.css
 ## Lesson plan
 
 Go over the details of our marsh sampling methods, as outlined in the slides, so that you're ready to make the measurements in the field today. Make sure to take good notes here because you will have to clearly articulate our research in your marsh lab report. 
+
+<iframe src="https://docs.google.com/presentation/d/1V8VrXDSoeyJIivLSKPxECJzmMrDmmyq-bhgUY9I1600/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" data-external="1"></iframe>
