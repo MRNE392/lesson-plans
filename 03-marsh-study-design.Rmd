@@ -1,0 +1,28 @@
+---
+title: "Marsh study design"
+output: html_document
+css: style.css
+---
+## Housekeeping
+
+* Lab this week is at Point Lookout. The marsh there is much bigger than the one we were in last week, and we might have to walk through some tall grass to get to the marsh. Wear long pants (light, loose-fitting synthetic material is best; avoid jeans and tights). The grass will tear up your legs and the ranger said chiggers are out there too. There's also a small amount of poison ivy.
+* Bring waterproof boots (we have extra boots in limited sizes - if you own a pair please bring them). 
+* Be prepared to spend most of the afternoon outside. 
+* Bring your marsh plants species ID guide to take the field ID quiz. The species we'll see are listed [here](https://mrne392.github.io/assessment/marsh-species.html).
+
+## Learning objectives
+
+* Define the terms, research *goals* and *objectives*
+* Articulate the questions, hypotheses, goals and objectives of our marsh field project
+* Recognize whether a study is a method comparison, single-element assessment, multi-element correlation, or synthetic analysis
+
+## Resources
+
+* [Slides](https://docs.google.com/presentation/d/1NXQgJZzBut3QTaZZ2cHx8jJ7H_w2aJ7Sf5fcoUD1VI8/edit?usp=sharing)
+* [Milroy Ch 3: Experimental design](https://mrne392.github.io/lesson-plans/readings/Milroy_Ch3.pdf)
+
+## Lesson plan
+
+Develop draft questions, hypotheses, goals, and objectives for the marsh field study, as outlined in the slides. Make sure to take good notes here because you will need to clearly articulate these in your marsh lab report. 
+
+<iframe src="https://docs.google.com/presentation/d/1NXQgJZzBut3QTaZZ2cHx8jJ7H_w2aJ7Sf5fcoUD1VI8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" data-external="1"></iframe>

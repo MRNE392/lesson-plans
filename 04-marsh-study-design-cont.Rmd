@@ -1,0 +1,25 @@
+---
+title: "Marsh study design"
+output: html_document
+css: style.css
+---
+## Housekeeping
+
+* Lab this week is at Point Lookout. The marsh there is much bigger than the one we were in last week, and we might have to walk through some tall grass to get to the marsh. Wear long pants (light, loose-fitting synthetic material is best; avoid jeans and tights). The grass will tear up your legs and the ranger said chiggers are out there too. There's also a small amount of poison ivy.
+* Bring waterproof boots (we have extra boots in limited sizes - if you own a pair please bring them). 
+* Be prepared to spend most of the afternoon outside. 
+* Bring your marsh plants species ID guide to take the field ID quiz.
+
+## Learning objectives
+
+* Articulate and follow standard operating procedures for collecting field data in our marsh field study
+* Explain what parameter each measurement is designed to measure and what that parameter will help us test our hypotheses
+
+## Resources
+
+* Slides
+* [Milroy Ch 3: Experimental design](https://mrne392.github.io/lesson-plans/readings/Milroy_Ch3.pdf)
+
+## Lesson plan
+
+Go over the details of our marsh sampling methods, as outlined in the slides, so that you're ready to make the measurements in the field today. Make sure to take good notes here because you will have to clearly articulate our research in your marsh lab report. 
