@@ -23,11 +23,13 @@ css: style.css
 
 ## Lesson plan
 
-1. We'll first go over the details of our marsh sampling methods, as outlined in the slides, so that you're ready to make the measurements in the field today. Pay close attention because Kylie and I won't be able to help everyone at the same time.
+### Marsh sampling methods
+
+We'll first go over the details of our marsh sampling methods, as outlined in the slides, so that you're ready to make the measurements in the field today. Pay close attention because Kylie and I won't be able to help everyone at the same time.
 
 <iframe src="https://docs.google.com/presentation/d/1V8VrXDSoeyJIivLSKPxECJzmMrDmmyq-bhgUY9I1600/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" data-external="1"></iframe>
 
-2. Pre-lab prep:
+### 2. Pre-lab prep
 
 **Enter quadrat coordinates into GPS unit**
 
@@ -39,3 +41,7 @@ css: style.css
 
 * Use a sharpie to put the date, "Point Lookout," your group letter, and quadrat number on each of your three biomass bags
 * Use a sharpie to write directly on the sediment sample containers your group letter and quadrat number
+
+#### Site map
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1QLcQVzjpS5U_SPJj7oAzR-V0HePlK8U&ehbc=2E312F&noprof=1" width="640" height="480" data-external="1"></iframe>
