@@ -1,0 +1,14 @@
+---
+title: "Marsh vegetation survey"
+output: html_document
+css: style.css
+---
+## Housekeeping
+
+In this lab, we will go to Point Lookout to conduct our marsh vegetation survey.
+
+## Resources
+
+* [Marsh vegetation survey SOPs](https://docs.google.com/document/d/1lO7lJEhjEQEmyg2ag0yvmxp-1QdPSecs9Pe11Aeukp8/edit#heading=h.rv1jr91net8v)
+* [Marsh vegetation survey data folder](https://drive.google.com/drive/folders/1V54Fckddxa9uEvRUFYMo4Ux1ReRa8och?usp=sharing)
+

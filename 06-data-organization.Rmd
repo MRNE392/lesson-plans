@@ -1,0 +1,37 @@
+---
+title: "Data organization"
+output: html_document
+css: style.css
+---
+## Housekeeping
+
+* No class next Tuesday 9/17 for newly scheduled advising day 
+* Quiz 4 is moved to next Thursday 
+* Lab this week is indoors - we will start processing our samples
+* Extra credit opportunities posted (will update as more are announced; let me know if you come across any relevant opportunities)
+
+## Learning objectives
+
+* Identify common problems with data entered into spreadsheets
+* Fix common spreadsheet problems
+* Enter data into spreadsheets following best practices
+* Explain why not following each of the spreadsheet best practices can cause problems
+
+## Resources
+
+* [Slides](https://docs.google.com/presentation/d/1ZN_ijD-HA0sWme2a1BvdeH27_FyqzHToK-fItbCxli8/edit#slide=id.g115c9b38363_0_229)
+* [Broman & Woo 2018 Data organization in spreadsheets](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989)
+
+## Lesson plan
+
+1. Slides on data organization
+<iframe src="https://docs.google.com/presentation/d/1ZN_ijD-HA0sWme2a1BvdeH27_FyqzHToK-fItbCxli8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" data-external="1"></iframe>
+
+2. Start entering your field data
+  * Spreadsheets are in [this folder](https://drive.google.com/drive/folders/1V54Fckddxa9uEvRUFYMo4Ux1ReRa8och?usp=sharing)
+  * Enter data into these spreadsheets: 
+    * ***cover-species*** (add another row for each additional species; make sure to also populate the date, transect, and quadrat columns if you add a new row)
+    * ***cover-total***
+    * ***soil*** (soil_type column)
+    * ***stem-heights*** (add another row for each additional species; make sure to also populate the date, transect, and quadrat columns if you add a new row)
+  * Add the photo of your datasheet to the ***Scanned datasheets*** folder
