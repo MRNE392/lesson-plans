@@ -1,0 +1,32 @@
+---
+title: "Descriptive statistics"
+output: html_document
+css: style.css
+---
+## Housekeeping
+
+* No class Tuesday for newly scheduled advising day 
+* Quiz 4 moved to next Thursday 
+* Lab today is in SH112. Bring your laptop for data entry.
+
+## Learning objectives
+
+* Define and identify different types of data (numeric vs. categorical; discrete vs. continuous; nominal vs. ordinal)
+* Define precision and accuracy
+* Explain how the 30-300 rule is used to choose an appropriate instrument resolution 
+* Use the appropriate number of significant figures for any measurement or calculation
+* Calculate mean, median, standard deviation, standard error, coefficient of variation, and variance
+* Describe a dataset using these measures of central tendency and variance 
+
+## Resources
+
+* [Slides](https://docs.google.com/presentation/d/1pEyAL5JvWsQcoy_OE9XMlwpdWIZrSwjjlSG4ZR3CSAs)
+* [Milroy Ch 2: Introduction to statistical inference](https://mrne392.github.io/lesson-plans/readings/Milroy_Ch2.pdf)
+
+## Lesson plan
+
+1. Slides on descriptive statistics
+<iframe src="https://docs.google.com/presentation/d/1pEyAL5JvWsQcoy_OE9XMlwpdWIZrSwjjlSG4ZR3CSAs/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" data-external="1"></iframe>
+    
+2. Descriptive statistics worksheet (handout)   
+    

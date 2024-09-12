@@ -1,0 +1,24 @@
+---
+title: "Statistical inference"
+output: html_document
+css: style.css
+---
+## Housekeeping
+
+
+## Learning objectives
+
+
+## Resources
+
+* [Slides](https://docs.google.com/presentation/d/18XPK329SL4EcbvN1hFl57cAvKtRM1QyzDkTqTKxEVLk/)
+* [Milroy Ch 2: Introduction to statistical inference](https://mrne392.github.io/lesson-plans/readings/Milroy_Ch2.pdf)
+
+
+## Lesson plan
+
+1. Slides on statistical inference
+<iframe src="https://docs.google.com/presentation/d/18XPK329SL4EcbvN1hFl57cAvKtRM1QyzDkTqTKxEVLk/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" data-external="1"></iframe>
+    
+    
+    
