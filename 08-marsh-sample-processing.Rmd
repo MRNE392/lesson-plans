@@ -8,6 +8,13 @@ css: style.css
 * [Marsh sample processing procedures](https://docs.google.com/document/d/1M4OE7BUvFNgn0N8We2H8loJPctRDLbZeynfFM61EwkY/edit?usp=sharing)
 * [Marsh data folder](https://drive.google.com/drive/u/0/folders/1V54Fckddxa9uEvRUFYMo4Ux1ReRa8och)
 
+## The plan
+
+1. Descriptive statistics worksheet
+2. Upload photo of your datasheet to the [Scanned datasheets folder](https://drive.google.com/drive/folders/1D7S0GCKyukQIRwPGNQ1NnPuDJp0fUduo?usp=sharing) (or email the image file to me and I'll upload it)
+2. Enter data from last week into spreadsheets in the [Marsh data folder](https://drive.google.com/drive/u/0/folders/1V54Fckddxa9uEvRUFYMo4Ux1ReRa8och)
+3. Start processing biomass and soil samples following [Marsh sample processing procedures](https://docs.google.com/document/d/1M4OE7BUvFNgn0N8We2H8loJPctRDLbZeynfFM61EwkY/edit?usp=sharing)
+
 
     
     
