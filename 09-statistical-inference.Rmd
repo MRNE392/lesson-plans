@@ -5,8 +5,15 @@ css: style.css
 ---
 ## Housekeeping
 
+* Lab this week is indoors. We'll meet in SH 112.
+* The report for the marsh vegetation survey is due in class on Th 10/10 (moved from F 10/4)
+* Here are the [lab report guidelins](https://docs.google.com/document/d/1F6b2qSFbESrm1Hhu7xn3AIkZWvM4GQecbj_fWf65vFY/edit?usp=sharing). The doc is also linked on the class schedule
 
 ## Learning objectives
+
+* Define null hypothesis (H~0~) and alternative hypothesis (H~a~)
+* Formulate null and alternative hypotheses
+* Determine appropriate data graphics for making inferences about observed trends, patterns, and relationships
 
 
 ## Resources
@@ -17,8 +24,10 @@ css: style.css
 
 ## Lesson plan
 
-1. Slides on statistical inference
+1. Quiz 4
+2. Slides on statistical inference
 <iframe src="https://docs.google.com/presentation/d/18XPK329SL4EcbvN1hFl57cAvKtRM1QyzDkTqTKxEVLk/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" data-external="1"></iframe>
-    
+3. Data graphics worksheet
+ 
     
     

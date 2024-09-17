@@ -1,0 +1,80 @@
+---
+title: "Untitled"
+output: html_document
+date: "2024-09-17"
+---
+```{r}
+library(tidyverse)
+library(lterdatasampler)
+```
+
+```{r}
+and_vertebrates
+
+names(and_vertebrates)
+
+and_vertebrates %>%
+  select(year, sampledate, sitecode, section, reach, pitnumber, species, weight_g, length_1_mm)
+```
+
+Cutthroat trout lengths follow a bimodal distribution.
+```{r}
+and_vertebrates %>%
+  select(year, sampledate, sitecode, section, reach, pitnumber, species, weight_g, length_1_mm) %>%
+  filter(species == "Cutthroat trout") %>%
+  ggplot(aes(x = length_1_mm)) +
+  geom_histogram() +
+  theme_light()
+```
+
+Coastal giant salamanders weigh more than cascade torrent salamanders.
+```{r}
+and_vertebrates %>%
+  select(year, sampledate, sitecode, section, reach, pitnumber, species, weight_g, length_1_mm) %>%
+  filter(species != "Cutthroat trout") %>%
+  ggplot(aes(y = weight_g, x = species, fill = species)) +
+  geom_boxplot() +
+  theme_light() +
+  theme(legend.position = "none")
+```
+
+There is a positive linear relationship between organism weight and length. 
+```{r}
+and_vertebrates %>%
+  select(year, sampledate, sitecode, section, reach, pitnumber, species, weight_g, length_1_mm) %>%
+  filter(species != "Cutthroat trout") %>%
+  ggplot(aes(y = weight_g, x = length_1_mm)) +
+  geom_point() +
+  theme_light() +
+  theme(legend.position = "none")
+```
+
+The relationship between organism length and weight is different for salamanders compared to cutthroat trout.
+```{r}
+and_vertebrates %>%
+  select(year, sampledate, sitecode, section, reach, pitnumber, species, weight_g, length_1_mm) %>%
+  drop_na(species) %>%
+  mutate(species = case_when(species == "Cutthroat trout" ~ "trout",
+         TRUE ~ "salamander")) %>%
+  ggplot(aes(y = weight_g, x = length_1_mm, color = species)) +
+  geom_point(alpha = 0.5) +
+  theme_light()
+```
+
+```{r}
+and_vertebrates %>%
+  select(year, sampledate, sitecode, section, reach, pitnumber, species, weight_g, length_1_mm) %>%
+  filter(species != "Cutthroat trout") %>%
+  ggplot(aes(x = section, y = weight_g, fill = reach)) +
+  geom_boxplot() +
+  theme_light()
+
+and_vertebrates %>%
+  select(year, sampledate, sitecode, section, reach, pitnumber, species, weight_g, length_1_mm) %>%
+  filter(species != "Cutthroat trout") %>%
+  ggplot(aes(x = weight_g, fill = section)) +
+  geom_histogram() +
+  facet_wrap(~reach) +
+  theme_light()
+```
+
