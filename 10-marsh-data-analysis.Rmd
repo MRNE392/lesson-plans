@@ -1,0 +1,17 @@
+---
+title: "Marsh sample processing and data analysis"
+output: html_document
+css: style.css
+---
+
+## Resources
+
+* [Sample processing SOPs](https://docs.google.com/document/d/1M4OE7BUvFNgn0N8We2H8loJPctRDLbZeynfFM61EwkY/edit)
+* [Data analysis plan](https://docs.google.com/document/d/1luYoEiBnboI7aX82ujeBvYRhvYvfmb4EKP9LFWJQ7Hk/edit#heading=h.rv1jr91net8v)
+
+## Lesson plan
+
+1. Prep soil samples for conductivity measurement and muffling
+2. Weigh biomass samples
+3. Start analyzing data
+4. At the very end of lab before leaving, make sure to measure soil conductivity.

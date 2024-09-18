@@ -7,7 +7,7 @@ css: style.css
 
 * Lab this week is indoors. We'll meet in SH 112.
 * The report for the marsh vegetation survey is due in class on Th 10/10 (moved from F 10/4)
-* Here are the [lab report guidelins](https://docs.google.com/document/d/1F6b2qSFbESrm1Hhu7xn3AIkZWvM4GQecbj_fWf65vFY/edit?usp=sharing). The doc is also linked on the class schedule
+* Here are the [lab report guidelins](https://docs.google.com/document/d/1F6b2qSFbESrm1Hhu7xn3AIkZWvM4GQecbj_fWf65vFY/edit?usp=sharing). The doc is also linked on the class schedule. We'll go over it in lab.
 
 ## Learning objectives
 
@@ -27,7 +27,7 @@ css: style.css
 1. Quiz 4
 2. Slides on statistical inference
 <iframe src="https://docs.google.com/presentation/d/18XPK329SL4EcbvN1hFl57cAvKtRM1QyzDkTqTKxEVLk/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" data-external="1"></iframe>
-3. Data graphics worksheet
+3. [Data graphics worksheet](https://docs.google.com/document/d/1Ncu1aEaEgyRHrj0giJLRq62jcNz8KL5pfugoETFdPzQ/edit?usp=sharing)
  
     
     
