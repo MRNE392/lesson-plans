@@ -6,6 +6,7 @@ css: style.css
 
 ## Resources
 
+* [Data folder](https://drive.google.com/drive/folders/1V54Fckddxa9uEvRUFYMo4Ux1ReRa8och?usp=drive_link)
 * [Sample processing SOPs](https://docs.google.com/document/d/1M4OE7BUvFNgn0N8We2H8loJPctRDLbZeynfFM61EwkY/edit)
 * [Data analysis plan](https://docs.google.com/document/d/1luYoEiBnboI7aX82ujeBvYRhvYvfmb4EKP9LFWJQ7Hk/edit#heading=h.rv1jr91net8v)
 

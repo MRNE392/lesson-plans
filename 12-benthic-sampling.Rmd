@@ -1,0 +1,21 @@
+---
+title: "Benthic sampling"
+output: html_document
+css: style.css
+---
+## Housekeeping
+
+* Lab this week is at CBL. We will be outside on the dock the whole time. Dress for the weather. Wear closed-toe shoes that are comfortable (sneakers, crocs, etc.).
+
+## Learning objectives
+
+## Resources
+
+* Slides
+* [Milroy Ch. 6: Census methods for benthic organisms](https://mrne392.github.io/lesson-plans/readings/Milroy_Ch6.pdf)
+
+## Lesson plan
+
+Benthic sampling slides by Nina Santos
+<iframe src="https://docs.google.com/presentation/d/1-66PU_6xA5f48n7NeXjfNWnSHQO8jxzhC5RiHjvvSEg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" data-external="1"></iframe>
+
