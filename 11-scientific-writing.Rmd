@@ -1,0 +1,32 @@
+---
+title: "Scientific writing"
+output: html_document
+css: style.css
+---
+## Housekeeping
+
+* Lab this week is at CBL. We will be outside on the dock the whole time. Dress for the weather. Wear closed-toe shoes that are comfortable and you don't mind potentially getting a little wet/dirty (sneakers, crocs, etc.).
+* Quiz 5 will be on Thursday instead of today! It will cover the statistical inference/data graphics learning objectives
+
+## Learning objectives
+
+* Determine appropriate data graphics for making inferences about observed trends, patterns, and relationships
+* Report and discuss research methods and results 
+
+## Resources
+
+* [Statistical inference slides](https://docs.google.com/presentation/d/18XPK329SL4EcbvN1hFl57cAvKtRM1QyzDkTqTKxEVLk/edit?usp=drive_link) (includes overview of data graphics for scientific inference)
+* [From Data to Viz: Data visualization decision tree](https://www.data-to-viz.com/)
+* [Field study report guidelines](https://docs.google.com/document/d/1F6b2qSFbESrm1Hhu7xn3AIkZWvM4GQecbj_fWf65vFY/edit)
+* [Field study report specifications](https://docs.google.com/spreadsheets/d/1bEn5rm4jVT0NfSCncYZ8jzgBva9Mi-LlVnbdKcKl_jQ/edit?gid=0#gid=0)
+* [Marsh lab data](https://drive.google.com/drive/folders/1V54Fckddxa9uEvRUFYMo4Ux1ReRa8och?usp=drive_link)
+
+## Lesson plan
+
+1. [Data graphics worksheet](https://docs.google.com/document/d/1Ncu1aEaEgyRHrj0giJLRq62jcNz8KL5pfugoETFdPzQ/edit) (paper copies will be distributed in class)
+2. Recap datasets
+    * Were there any errors/mispellings/blank entries etc. that need to be fixed? This is your last chance. Do it now.
+    * Think about how you might combine datasets for comparisons. Some have the same number of observations; these are easy to combine: just create a new "combined" spreadsheet and copy and paste the columns you want to into that new combined spreadsheet.
+    * Some spreadsheets have a different number of observations. You might have to calculate some summary statistics (like use a pivot table to sum all of the stem counts or biomass values for each quadrat)
+3. [Scientific writing worksheet](https://docs.google.com/document/d/1zVFvk6CJLWHMBcWu_2dN7tJ8Q6EyS8s2i-t9JYNqw1g/edit) (paper copies will be distributed in class)
+

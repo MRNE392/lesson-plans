@@ -11,7 +11,7 @@ css: style.css
 
 ## Resources
 
-* Slides
+* [Slides](https://docs.google.com/presentation/d/1-66PU_6xA5f48n7NeXjfNWnSHQO8jxzhC5RiHjvvSEg)
 * [Milroy Ch. 6: Census methods for benthic organisms](https://mrne392.github.io/lesson-plans/readings/Milroy_Ch6.pdf)
 
 ## Lesson plan
