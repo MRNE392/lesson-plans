@@ -9,13 +9,21 @@ css: style.css
 
 ## Learning objectives
 
+* Define *benthic*, *benthos*, *plankton*, *nekton*, *epifauna*, and *infauna*
+* Describe the ecological importance of benthic organisms
+* Describe common environmental variables that can affect the health and distribution of benthic organisms
+* Describe common methods for sampling benthic organisms
+
+
 ## Resources
 
-* [Slides](https://docs.google.com/presentation/d/1-66PU_6xA5f48n7NeXjfNWnSHQO8jxzhC5RiHjvvSEg)
+* [Slides](https://docs.google.com/presentation/d/1je1-ylZv_F06-S2x1WAiRcdZ4ZZDtlzO/)
 * [Milroy Ch. 6: Census methods for benthic organisms](https://mrne392.github.io/lesson-plans/readings/Milroy_Ch6.pdf)
 
 ## Lesson plan
 
-Benthic sampling slides by Nina Santos
-<iframe src="https://docs.google.com/presentation/d/1-66PU_6xA5f48n7NeXjfNWnSHQO8jxzhC5RiHjvvSEg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" data-external="1"></iframe>
+1. Quiz 5
+2. Benthic sampling slides (guest lecturer: Nina Santos, PhD student at CBL)
+3. Overview of CBL benthic sampling lab
+<iframe src="https://docs.google.com/presentation/d/1je1-ylZv_F06-S2x1WAiRcdZ4ZZDtlzO/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" data-external="1"></iframe>
 
