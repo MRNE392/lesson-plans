@@ -1,5 +1,5 @@
 ---
-title: "Benthic sampling"
+title: "Benthos"
 output: html_document
 css: style.css
 ---

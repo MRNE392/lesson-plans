@@ -1,0 +1,29 @@
+---
+title: "Catch-up"
+output: html_document
+css: style.css
+---
+## Housekeeping
+
+* Lab this week is inside in SH 112
+* No quiz this Thursday since there won't be any new content today
+* No class next Tuesday - Fall reading day!
+
+## Resources
+
+* [Lab report guidelines](https://drive.google.com/open?id=1F6b2qSFbESrm1Hhu7xn3AIkZWvM4GQecbj_fWf65vFY&usp=drive_copy)
+* [Lab report specifications](https://docs.google.com/spreadsheets/d/1bEn5rm4jVT0NfSCncYZ8jzgBva9Mi-LlVnbdKcKl_jQ/edit?usp=drive_link)
+* [Marsh lab data](https://drive.google.com/drive/folders/1lHouLH2q0fhekwGm9zjF8ssV7rdp6hya?usp=drive_link)
+
+## Lesson plan
+
+1. Go over lab report requirements
+2. Review marsh lab methods:
+
+    * **Soil conductivity:** Conductivity is a measure of a material's ability to conduct an electrical current. In water, the concentration of salts and minerals affect conductivity. Therefore, conductivity is correlated with salinity - it tells us how much salt is in water. Conductivity needs to be measured in water, but our soil samples presumably had different amounts of water in them. So we first had to evaporate the water off by drying the samples at 105^o^C. We then added a 1:5 weight to volume ratio of dried soil to water so that we had a controlled amount of water in which to measure conductivity. Since we diluted the soil sample with water, we need to multiply by a dilution constant to calculate the actual soil salinity. However, different types of soil can hold different amounts of water, so even if you add a constant 1:5 ratio of water, the amount of water in solution will vary by soil type. So the dilution factor also varies by soil type. For our purposes, we will assume that our soil is "clay-loam." The dilution factor for this soil type is 9, so we multiplied our measured conductivities by 9 to calculate actual or "corrected" conductivity. See this [web page](https://www.agric.wa.gov.au/soil-salinity/measuring-soil-salinity) for more info.
+    
+    * **Organic matter content:** Organic matter content data are posted. Organic matter content is determined via "loss on ignition." First we dry the soil at 105^o^ C to constant weight (all water has evaporated out so the weight no longer changes). Then we combust the samples at 550^o^ C for 4 hours. At this high temperature, organic matter in the soil samples is combusted and assumed to be lost. We then weigh the samples again. The change in weight represents the mass of material that was lost on ignition, or the organic matter. We calculate % organic by subtracting the post-combustion weight from the pre-combustion weight, dividing by the pre-combustion weight, and multiplying by 100.
+    
+    * What else needs clarification?
+    
+3. Make data graphics while Cassie and your peers are in the room to help
