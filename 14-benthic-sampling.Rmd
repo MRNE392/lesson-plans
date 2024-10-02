@@ -12,6 +12,9 @@ css: style.css
 
 ## Learning objectives
 
+* Define *mobile*, *sessile*, *infauna*, and *epifauna*
+* Identify  appropriate benthic sampling methods for mobile and sessile infauna and epifauna
+
 ## Resources
 
 * [Slides](https://docs.google.com/presentation/d/1bN6Hi_3pbCs9VPJZg4J3MpSS7pqkSf0JLgezECEiRg0)
@@ -20,3 +23,4 @@ css: style.css
 ## Lesson plan
 
 <iframe src="https://docs.google.com/presentation/d/1bN6Hi_3pbCs9VPJZg4J3MpSS7pqkSf0JLgezECEiRg0/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" data-external="1"></iframe>
+
