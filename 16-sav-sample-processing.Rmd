@@ -1,0 +1,44 @@
+---
+title: "SAV sample processing"
+output: html_document
+css: style.css
+---
+## I. Knot-tying objectives
+
+* Tie a bowline, lobster buoy hitch, and half hitch
+
+## II. SAV sample processing instructions
+
+### Resources
+
+* [SAV species ID guide](https://dnr.maryland.gov/waters/bay/Documents/SAV/complete_sav_key.pdf)
+
+### Instructions
+
+* **Nobody is done until everyone is done - if you finish your sample, help someone else finish theirs.**
+* **I need to finish these today. If we're not done by the end of lab and you have time to stay to help me finish, I would much appreciate it. If not no worries.**
+
+1. Grab a sample bag, dump it into a sieve, and rinse the sample. Fill a plastic container with water and place your sample in the water. Bring the sample, along with the sample bag, back to your bench. 
+**Do not dump dirty water down the drain: pour through a sieve first so that we don't clog the drain.**
+1. Gently clean the sample. Change the water with fresh water. Repeat until the water stays more or less clear. If there is any algae or calcifying organisms attached to the leaves, carefully scrape them off with your finger. 
+1. Grab a few smaller tupperwares - one for each species. Separate your plants into the smaller tuperwares by species. Make sure to clean as much of the Lyngbya off the plants as possible. Place the Lyngbya into its own container and clean as much sediment and debris from the Lyngbya as possible. 
+1. Separate the above-ground material (leaves, shoots) from the below-ground material (roots and rhizomes) by pinching off the shoots where they meet the roots/rhizomes. 
+1. Place the samples into foil packets, separated by species and above/below ground material. Label foil packets with the site name, sample date, species abbreviation (see below), chamber letter, and AG (for above ground) or BG (for belowground).
+
+### Species abbreviations
+
+**Brackish sites**
+
+* RM: Ruppia maritima (widgeon grass)
+* ZM: Zostera marina (eelgrass)
+
+**Freshwater sites**
+
+* LW: Lyngbya woleii
+* CD: Ceratophyllum demersum (coontail)
+* EC: Elodea canadensis (elodea)
+* HD: Heteranthera dubia (water stargrass)
+* HV: Hydrilla verticillata (hydrilla)
+* MS: Myriophyllum spicatum (Eurasian water milfoil)
+* NAI: Naiads
+* VA: Vallisneria americana (wild celery)

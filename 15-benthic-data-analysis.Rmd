@@ -1,0 +1,26 @@
+---
+title: "Benthic data analysis"
+output: html_document
+css: style.css
+---
+## Housekeeping
+
+* No class or lab next week: CBG fieldwork in Virginia
+* The next quiz (10/24) will be on knot-tying! You'll be quizzed on the knots you'll need to be able to do for our last field study. The knots and instructional videos are listed [here](https://mrne392.github.io/assessment/knot-tying.html). I will bring rope to lab today to show you how to tie the knots; you can bring the rope home to practice.
+
+## Learning objectives
+
+* Formulate questions and hypotheses for benthic study
+* Identify appropriate data visualizations for testing benthic study hypotheses
+
+## Resources
+
+* [Mysid data](https://docs.google.com/spreadsheets/d/1fHhcmFV_zDn23SuqXp8ZTObDA0lNyqpk/edit?gid=1258031574#gid=1258031574)
+* [Worksheet](https://docs.google.com/document/d/1cfn4kb55op2O0v8EAawx0l3OEIUUZHtjtTp_NKEWVik/edit?usp=sharing)
+
+## Lesson plan
+
+1. Tour the mysid data spreadsheet
+2. Complete worksheet, which will help you brain storm question/hypothesis formulation and data visualization for the benthic lab
+3. Download the mysid data and begin to work on data visualizations
+
