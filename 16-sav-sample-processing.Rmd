@@ -5,14 +5,14 @@ css: style.css
 ---
 ## Resources
 
-* [animal datasheet](https://docs.google.com/spreadsheets/d/1v5taHFVVZiA8XPXAbQ4n5857FToXCtW9mN1hfKhdsSI/edit?usp=sharing)
+* [Animal datasheet](https://docs.google.com/spreadsheets/d/1v5taHFVVZiA8XPXAbQ4n5857FToXCtW9mN1hfKhdsSI/edit?usp=sharing)
 * [SAV species ID guide](https://dnr.maryland.gov/waters/bay/Documents/SAV/complete_sav_key.pdf)
 
 <iframe src="https://docs.google.com/presentation/d/1po_bQO2yl5RPzcE5ENP_fQrvJvtGat8XWUu893FIpd4/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" data-external="1"></iframe>
 
-## I. Knot-tying objectives
+## I. Knot-tying 
 
-* Tie a bowline, lobster buoy hitch, and half hitch
+* Tie a bowline, lobster buoy hitch, and half hitch (instructional videos [here](https://mrne392.github.io/assessment/knot-tying.html))
 
 ## II. SAV sample processing instructions
 
