@@ -5,7 +5,7 @@ css: style.css
 ---
 ## Housekeeping
 
-* The next quiz (10/24) will be on knot-tying! You'll be quizzed on the knots you'll need to be able to do for our last field study. The knots and instructional videos are listed [here](https://mrne392.github.io/assessment/knot-tying.html). Make sure to bring your rope to class!
+* The next quiz (in lab on 10/24) will be on knot-tying! You'll be quizzed on the knots you'll need to be able to do for our last field study. The knots and instructional videos are listed [here](https://mrne392.github.io/assessment/knot-tying.html). Make sure to bring your rope to lab!
 * Lab will be inside and outside this week. We'll meet in SH 112.
 
 ## Learning objectives
