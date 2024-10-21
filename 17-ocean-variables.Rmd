@@ -10,6 +10,13 @@ css: style.css
 
 ## Learning objectives
 
+* Define *Lagrangian* and *Eulerian* and explain how these approaches to measuring oceanographic variables differ from each other
+* Determine appropriate spatial and temporal boundaries for an oceanographic field study
+* Define UTC and be able to convert UTC time to local time
+* Define *density* and *hydrostatic pressure*
+* Explain how temperature, salinity, and pressure affect density
+* Select appropriate physical, chemical, and/or geologic variables to test a given hypothesis
+
 ## Resources
 
 * [Slides](https://docs.google.com/presentation/d/1cRkNcJbUjzz59q-NXI2OHHKcrRhgmeDWSBYT244uxfE)
