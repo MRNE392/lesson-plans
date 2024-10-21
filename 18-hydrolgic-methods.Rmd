@@ -1,0 +1,17 @@
+---
+title: "Hydrologic census methods"
+output: html_document
+css: style.css
+---
+## Housekeeping
+
+* Lab will be inside and outside today. We'll meet in SH 112.
+
+## Learning objectives
+
+## Resources
+
+* [Slides](https://docs.google.com/presentation/d/1sIrZL6Fxyqdylbri1dLfOKgNj2d8rXkOy3nWjZVp8kQ)
+* [Milroy Ch. 5: Common hydrologic census methods](https://mrne392.github.io/lesson-plans/readings/Milroy_Ch5.pdf)
+
+## Lesson plan
