@@ -1,0 +1,21 @@
+---
+title: "Field study planning"
+output: html_document
+css: style.css
+---
+## Housekeeping
+
+* Quiz this Thursday on hydrologic variables and methods
+* In lab this week, we will program and deploy instruments and take initial field measurements.
+
+## Learning objectives
+
+* 
+
+## Resources
+
+## Lesson plan
+
+1. Report back field study site reconnaissance observations: 1) make sure it is an appropriate site for testing your hypothesis, 2) evaluate the site for potential hazards to your own safety and the safety of the loggers, and 3) note the water depth to ensure that your buoy line is long enough.
+1. Make field datasheets
+1. Write mini-proposal

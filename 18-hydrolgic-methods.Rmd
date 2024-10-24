@@ -5,7 +5,8 @@ css: style.css
 ---
 ## Housekeeping
 
-* Lab will be inside and outside today. We'll meet in SH 112.
+* You'll be quizzed in lab this afternoon on the knots you'll need to be able to do for our last field study. The knots and instructional videos are listed [here](https://mrne392.github.io/assessment/knot-tying.html). Make sure to bring your rope to lab!
+* Lab will be inside and outside this week. We'll meet in SH 112.
 
 ## Learning objectives
 
@@ -15,3 +16,5 @@ css: style.css
 * [Milroy Ch. 5: Common hydrologic census methods](https://mrne392.github.io/lesson-plans/readings/Milroy_Ch5.pdf)
 
 ## Lesson plan
+
+<iframe src="https://docs.google.com/presentation/d/1sIrZL6Fxyqdylbri1dLfOKgNj2d8rXkOy3nWjZVp8kQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" data-external="1"></iframe>

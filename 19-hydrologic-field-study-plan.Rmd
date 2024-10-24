@@ -1,0 +1,34 @@
+---
+title: "Hydrologic field study planning"
+output: html_document
+css: style.css
+---
+
+## Supplies
+
+* Current meters
+* DO loggers
+* pH loggers
+* DO wiper
+* PAR logger and wiper
+* light loggers
+* depth and conductivity loggers
+* YSI
+* LiCOR
+* Secchi disk
+* Fluorometer
+* TSS filtering stuff
+* data cables and MRNE 116 laptops (5)
+
+## Resources
+
+* [Standard operating procedures](https://smr-monitoring.github.io/MRNE395-2024FA/sops.html)
+
+## Lesson plan
+
+1. Knot-tying quiz: tie a bowline, lobster buoy hitch, and half hitch.
+1. CBG will introduce the instruments and provide an overview of what they do/how they work
+1. In groups, complete the hydrologic field study design brainstorming worksheet. Each group can directly edit their own worksheet electronically.
+1. Share your plan with Cassie for feedback
+1. Explore loggers: Grab one of each of the loggers you plan to use and orient yourself with it. Make sure you know where the actual sensor is and how to handle the instrument to avoid damaging the sensor. Make sure you can connect the logger to a device (the HOBOConnect app on your phone if it is bluetooth enabled, otherwise the relevant app on the provided MRNE laptop) and make sure you know how to program the logger to start at your desired time and sample at your desired interval. Instructions on how to use and communicate with instruments is available on this [standard operating procedures](https://smr-monitoring.github.io/MRNE395-2024FA/sops.html) web page.
+1. Recon potential field site(s): Go to your proposed field site(s) and 1) make sure it is an appropriate site for testing your hypothesis, 2) evaluate the site for potential hazards to your own safety and the safety of the loggers, and 3) note the water depth to ensure that your buoy line is long enough. Take notes on each of these three items and be prepared to report back to the class on Tuesday.
