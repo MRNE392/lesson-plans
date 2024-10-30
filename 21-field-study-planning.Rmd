@@ -1,6 +1,8 @@
 ---
 title: "Hydrologic field study planning"
-output: html_document
+output: 
+  html_document:
+    self_contained: FALSE
 css: style.css
 ---
 ## Housekeeping
@@ -10,6 +12,7 @@ css: style.css
 ## Learning objectives
 
 * Plan your hydrologic field study
+* Quiz next week: be able to: describe your field study questions, hypotheses, and objectives; describe your methods; explain how your measurements are designed to test your hypotheses.
 
 ## Resources
 
