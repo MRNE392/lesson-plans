@@ -1,0 +1,30 @@
+---
+title: "Hydrologic field study planning"
+output: html_document
+css: style.css
+---
+## Housekeeping
+
+* Lab will meet inside today and then you'll go outside to deploy your gear.
+
+## Learning objectives
+
+* Plan your hydrologic field study
+
+## Resources
+
+* [Hydrologic field study folder](https://drive.google.com/drive/u/0/folders/1lAaWzYoXvyzf02Omr3Z3Fm1-GAfI7BnQ)
+
+## Lesson plan
+
+1. Quiz-07: hydrologic variables and methods
+1. Feedback on paper 1: 
+    a. Be careful when using sum as a summary statistic!
+    b. Specify whether the data you are presenting come just from your transect or from all of the transects combined.
+    c. Results should be as specific as possible - text should include NUMBERS - summary statistics.
+    d. Use scientific notation/superscripts: g m^-2^ not g/m2.
+    e. Species names are italicized. Genus is capitalized: *Spartina alterniflora*
+1. Write an "and but therefore" statement and summary of methods for your group's hydrologic study at the end of your planning doc (available in [this folder](https://drive.google.com/drive/u/0/folders/1lAaWzYoXvyzf02Omr3Z3Fm1-GAfI7BnQ))
+1. Run your deployment plan by Cassie.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ERB7ITvabA4?si=A9N4HO_-SXSYPKhC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
