@@ -20,7 +20,7 @@ css: style.css
 
 ## Lesson plan
 
-1. Quiz-07: hydrologic variables and methods
+1. Quiz-08: hydrologic variables and methods
 1. Feedback on paper 1: 
     a. Be careful when using sum as a summary statistic!
     b. Specify whether the data you are presenting come just from your transect or from all of the transects combined.
