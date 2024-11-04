@@ -18,7 +18,7 @@ css: style.css
 ## Lesson plan
 
 1. Complete your group's retrieval planning worksheet, available in [Field study folder](https://drive.google.com/drive/u/0/folders/1wtrXccYT4a-26WlzA1wwQgkIST36K7t7)
-1. Class discussion: Towards the end of the semester we'll have a class activity in which you'll develop a field research "toolkit" for your future selves and/or other early career field researchers. The purpose of this discussion today is to start thinking about your experiences in this class and reflect on their applicability to your future work in ecological field research.
+1. Class discussion: Towards the end of the semester we'll have a class activity in which you'll develop a field research "toolkit" for your future selves and/or other early career field researchers. The purpose of this discussion today is to start thinking about your experiences in this class and reflect on their applicability to your future work in ecological field research. I'll record your discussion contributions [here](https://docs.google.com/document/d/17Of3Poz3KC2kGXkY-ZT7zfEt8nkyi66-T3QGRkYNzKo/edit?tab=t.0).
 
 * What went well in lab last week?
 * What didn't go as well and why?
