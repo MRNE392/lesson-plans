@@ -1,0 +1,32 @@
+---
+title: "Univariate data analysis"
+output: html_document
+css: style.css
+---
+## Housekeeping
+
+* Quiz next Thursday on learning objectives from today and next Tuesday
+* Lab today: meet in SH 112, then retrieve loggers. Be prepared to go outside in whatever conditions your loggers are deployed in.
+
+## Learning objectives
+
+* Define *t-test* and *ANOVA*
+* For a given dataset, determine an appropriate statistical test for comparing population means (t-test or ANOVA)
+* Formulate a null and alternative hypothesis for a t-test and/or ANOVA
+* Define and calculate species richness, Shannon's H, and Simpson's D metrics of biodiversity
+* Explain the role of before/after and control/impact treatments in a BACI experiment
+* Design a BACI experiment for a given research question
+* Interpret the results of a BACI experiment
+
+## Resources
+
+* [Slides](https://docs.google.com/presentation/d/1jiKVCHhvZRjtESpoUCwc7PMipsYj-G5Nrq1BG2p6GUg/edit#slide=id.p)
+* [Milroy Ch. 8: Introduction to univariate analysis](https://mrne392.github.io/lesson-plans/readings/Milroy_Ch8.pdf)
+* [Poster project spreadsheet](https://docs.google.com/spreadsheets/d/1BgDhoONcbGGGXkjJAlRhcocOCIhK9FUYvEODWMZDmXY/edit?usp=sharing)
+
+## Lesson plan
+
+1. Quiz
+1. Sign up for poster groups in [this spreadsheet](https://docs.google.com/spreadsheets/d/1BgDhoONcbGGGXkjJAlRhcocOCIhK9FUYvEODWMZDmXY/edit?usp=sharing). You don't need to have a title yet but it would be good to start thinking about which project you want to use.
+1. Slides:
+<iframe src="https://docs.google.com/presentation/d/1jiKVCHhvZRjtESpoUCwc7PMipsYj-G5Nrq1BG2p6GUg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" data-external="1"></iframe>
