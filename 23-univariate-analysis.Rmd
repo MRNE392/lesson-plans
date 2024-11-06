@@ -7,6 +7,7 @@ css: style.css
 
 * Quiz next Thursday on learning objectives from today and next Tuesday
 * Lab today: meet in SH 112, then retrieve loggers. Be prepared to go outside in whatever conditions your loggers are deployed in.
+* Another EC opportunity: Saturday, November 9 from 1 pm to 4 pm spat counting with SMRWA. Please let Emma Green know if you can make it via email (emmasmrwa@gmail.com) or signing up via the [sign-up genius](https://www.signupgenius.com/go/10C0944A5AC2FA5F9C16-52918137-counting)
 
 ## Learning objectives
 
