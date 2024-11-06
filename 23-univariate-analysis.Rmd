@@ -20,4 +20,6 @@ css: style.css
 
 1. Quiz
 1. Sign up for poster groups in [this spreadsheet](https://docs.google.com/spreadsheets/d/1BgDhoONcbGGGXkjJAlRhcocOCIhK9FUYvEODWMZDmXY/edit?usp=sharing). You don't need to have a title yet but it would be good to start thinking about which project you want to use.
-1. *Chasing Coral*: I was going to cover some other ancillary data stuff, but today feels like a good time to instead take a step back and think about why studying marine science is important and why we need people who can do robust field-based marine science research.
+1. *Chasing Coral*: I was going to cover some other ancillary data stuff, but today feels like a good time to instead take a step back and think about why studying marine science is important and why we need people who can do robust field-based marine science research. As you're watching, think about what inspires *you* in your pursuit of a marine/environmental science degree and career. Keep these personal goals in mind as we are confronted with uncertainty in the coming months and years.
+
+![](img/coral.jpg){#id .class width=50% height=50%}
