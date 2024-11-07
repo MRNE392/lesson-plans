@@ -1,0 +1,37 @@
+---
+title: "Template"
+output: html_document
+css: style.css
+---
+
+## Quick links
+
+* [SOPs](https://smr-monitoring.github.io/MRNE395-2024FA/sops.html)
+* [Group folders](https://drive.google.com/drive/folders/1wtrXccYT4a-26WlzA1wwQgkIST36K7t7?usp=sharing)
+
+## 1. Sign up for poster groups
+Sign up for poster groups in [this spreadsheet](https://docs.google.com/spreadsheets/d/1BgDhoONcbGGGXkjJAlRhcocOCIhK9FUYvEODWMZDmXY/edit?usp=sharing). You don't need to have a title yet but it would be good to start thinking about which project you want to use.
+
+## 2. Retrieve loggers
+
+* Retrieve loggers. Bring your DO and pH caps with you to protect the sensors. Put river water in pH sensor cap - don't let the sensor dry!
+* Bring everything over to the River Center to get sprayed down
+* Bring blocks and buoys over to Kent and store in the mud room
+* Bring loggers and any other gear back up to the lab
+* **Whoever is using the YSI: make sure to record the salinity. We need to know the salinity in order to process the DO data.**
+
+## 3. Clean loggers
+
+* Gently clean your loggers in the sink at the lab. Use a scrub brush if needed to remove fouling but be aware of where the sensor is located on your instrument and take care not to scratch it.
+* Use a paper towel to thoroughly dry the outside of the logger (especially DO loggers, which we need to open up in order to access the data)
+
+## 4. Download and process logger data
+
+* First make sure to stop your logger
+    * DO - just turn the switch off
+    * all other loggers - connect to appropriate app and navigate to "stop" or "stop logging" button.)
+* Use the [SOPs](https://smr-monitoring.github.io/MRNE395-2024FA/sops.html) for each instrument to process/download data.
+    * pH and light data only need to be downloaded - no processing required
+    * DO processing: The loggers appear as an external hard drive on your computer. In that drive, a program called   "Concatenate" is stored. The Concatenate program is used to concatenate daily data files into one large data file and convert times from UTC to EST. The resulting file is a txt file called cat.txt. You should move this to your group's drive folder and rename it.
+    * Depth and conductivity need to be processed using HOBOware Pro's data wizard. I'll help groups individually with these. 
+    * All logger data should be stored in your [group folder](https://drive.google.com/drive/folders/1wtrXccYT4a-26WlzA1wwQgkIST36K7t7?usp=sharing)
