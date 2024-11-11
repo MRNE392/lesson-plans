@@ -1,14 +1,18 @@
 ---
-title: "Univariate data analysis"
+title: "Hydrologic data analysis: tidying and wrangling"
 output: html_document
 css: style.css
 ---
 ## Housekeeping
 
-## Learning objectives
-
 * Quiz Thursday: Be able to articulate your hydrologic field study data analysis methods and how they will enable you to test your hypotheses
 * Lab Thursday is indoors: data analysis and poster workshop
+
+## Learning objectives
+
+* Tidy, wrangle, and analyze hydrologic data for hypothesis testing.
+* Articulate how you will analyze your data to address your hypotheses.
+
 
 ## Resources
 * [Data organization in spreadsheets slides](https://docs.google.com/presentation/d/1ZN_ijD-HA0sWme2a1BvdeH27_FyqzHToK-fItbCxli8/edit?usp=drive_link)
@@ -26,6 +30,9 @@ Enter your poster titles into the [Poster groups spreadsheet](https://docs.googl
 
 #### Review data organization in spreadsheets
 In your groups please review the [Data organization in spreadsheets slides](https://docs.google.com/presentation/d/1ZN_ijD-HA0sWme2a1BvdeH27_FyqzHToK-fItbCxli8/edit?usp=drive_link) or [paper](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989). 
+
+#### Data analysis planning
+In your groups, grab a blank piece of paper. At the top, list all of your field study sites and which variables you measured at each site. Below that, write out your hypotheses. Leave some room in between hypotheses. Below each hypothesis, describe how you will analyze your data to test the hypothesis. Draw a few sketches of graphs you might create.
 
 #### Data cleaning and wrangling
 
