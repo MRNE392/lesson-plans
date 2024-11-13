@@ -1,0 +1,23 @@
+---
+title: "Hydrologic data analysis and poster workshop"
+output: html_document
+css: style.css
+---
+
+## Resources
+
+* [Lab 3 group folders](https://drive.google.com/drive/u/0/folders/1wtrXccYT4a-26WlzA1wwQgkIST36K7t7)
+* [Poster group folders](https://drive.google.com/drive/u/0/folders/1863RanHSeoydJAx8f_UEz_1qiIuW3zyb)
+* [Poster-making slides](https://docs.google.com/presentation/d/1V1wmwCNhazFZqrEC-DNapyhbKBnCFK-v0bHhTuFZGt8)
+* [Milroy Ch. 8: Introduction to univariate analysis](https://mrne392.github.io/lesson-plans/readings/Milroy_Ch8.pdf)
+* [Milroy Ch. 9: Introduction to multivariate analysis](https://mrne392.github.io/lesson-plans/readings/Milroy_Ch9.pdf)
+
+## Lesson plan
+
+1. Data analysis - CBG will demonstrate different types of graphs
+
+2. Poster-making slides
+
+<iframe src="https://docs.google.com/presentation/d/1V1wmwCNhazFZqrEC-DNapyhbKBnCFK-v0bHhTuFZGt8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" data-external="1"></iframe>
+
+3. Work with groups on developing content. Use your group's poster project worksheet as a guide. Before we leave, you should also assign content-development tasks for homework. You'll have time in class next week to work on the posters, but you will also need to spend some time outside of class wordsmithing your text and creating polished data figures. 

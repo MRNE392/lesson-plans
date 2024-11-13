@@ -1,0 +1,31 @@
+---
+title: "Hydrologic data analysis - data cleaning"
+output: html_document
+css: style.css
+---
+
+## Housekeeping
+
+1. Lab is inside today. We'll analyze our data and start thinking about the poster project.
+
+
+## Learning objectives
+
+* Tidy, wrangle, and analyze hydrologic data for hypothesis testing.
+* Articulate how you will analyze your data to address your hypotheses.
+
+
+## Resources
+
+* [Data organization in spreadsheets slides](https://docs.google.com/presentation/d/1ZN_ijD-HA0sWme2a1BvdeH27_FyqzHToK-fItbCxli8/edit?usp=drive_link)
+* [Data organization in spreadsheets paper](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989)
+* [Lab 3 group folders](https://drive.google.com/drive/u/0/folders/1wtrXccYT4a-26WlzA1wwQgkIST36K7t7)
+* [Milroy Ch. 8: Introduction to univariate analysis](https://mrne392.github.io/lesson-plans/readings/Milroy_Ch8.pdf)
+* [Milroy Ch. 9: Introduction to multivariate analysis](https://mrne392.github.io/lesson-plans/readings/Milroy_Ch9.pdf)
+* [Data tidying instructions](https://mrne392.github.io/lesson-plans/24-hydro-data-analysis.html)
+
+## Lesson plan
+
+1. Take quiz 10
+
+2. Work with your groups to tidy and wrangle your data. Use the methods I went over last time as a guide (see [data tidying instructions](https://mrne392.github.io/lesson-plans/24-hydro-data-analysis.html)).
