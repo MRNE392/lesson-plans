@@ -20,7 +20,7 @@ css: style.css
 
 Work on posters!
 
-##Note about superscripts##
+**Note about superscripts**
 
 In your plot axis labels, it's important that you format superscripts correctly. For example, "mysids/m2" looks sloppy, lazy, or like you don't know what you're doing. The correct format is mysids m⁻². Excel and Google Sheets don't make it easy to create properly formatted labels with superscripts. Here is a workaround for adding superscripts:
 
