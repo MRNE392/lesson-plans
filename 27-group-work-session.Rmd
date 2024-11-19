@@ -1,0 +1,21 @@
+---
+title: "Group work session"
+output: html_document
+css: style.css
+---
+## Housekeeping
+
+* Hydrologic study report due in class next Tuesday 11/26
+* We will peer review the posters in lab Thursday
+* Poster final drafts due at 5:00 the Monday after we return from Thanksgiving break 12/2. If you don't submit it by 5 pm your poster will not be printed!
+* Poster symposium is Friday 12/6 at 11:30
+
+## Resources
+
+* [Lab 3 group folders](https://drive.google.com/drive/u/0/folders/1wtrXccYT4a-26WlzA1wwQgkIST36K7t7)
+* [Poster group folders](https://drive.google.com/drive/u/0/folders/1863RanHSeoydJAx8f_UEz_1qiIuW3zyb)
+* [Poster-making slides](https://docs.google.com/presentation/d/1V1wmwCNhazFZqrEC-DNapyhbKBnCFK-v0bHhTuFZGt8)
+
+## Lesson plan
+
+Work on posters!

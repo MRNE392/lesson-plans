@@ -28,4 +28,6 @@ css: style.css
 
 1. Take quiz 10
 
+2. How to use [Google My Maps](https://www.google.com/maps/d/u/0/) to make a study site map
+
 2. Work with your groups to tidy and wrangle your data. Use the methods I went over last time as a guide (see [data tidying instructions](https://mrne392.github.io/lesson-plans/24-hydro-data-analysis.html)).
