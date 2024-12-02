@@ -1,0 +1,35 @@
+---
+title: "Template"
+output: html_document
+css: style.css
+---
+## Housekeeping
+
+* Please fill out online course evaluation
+* Wrap-up in class Thursday
+* Poster presentation dry-run in lab Thursday - be ready to present and answer questions
+* Poster symposium is Friday in the ARC
+    * All posters need to be hung by 10:00 am Friday morning. You should hang your poster on your assigned board. Push pins will be provided in the poster hall.
+    * You can look up your board number and presentation time [here](https://docs.google.com/spreadsheets/d/1mh9wwvnB_G9_QXD71zr4qcamEk3v0I3HWuSnIxFPPjY/edit?gid=0#gid=0)
+    * Presentations are at either 11:30-12:15 or 12:15-100 to help spread things out. You are responsible for standing next to your poster during your assigned time slot.
+    * Attire is "business casual" or "smart casual" - sweats are too casual; however blazers/ties/slacks/nice dresses, etc. are too formal. Don't stress about this - pants/skirt and a sweater, polo, button-down, a casual dress, or something similar will be fine, just don't roll out of bed and show up in your PJ's!  
+
+## Learning objectives
+
+* Practice your poster presentation!
+
+## Resources
+
+* [Poster project folder](https://drive.google.com/drive/folders/1863RanHSeoydJAx8f_UEz_1qiIuW3zyb)
+* [Poster board number and schedule spreadsheet](https://docs.google.com/spreadsheets/d/1mh9wwvnB_G9_QXD71zr4qcamEk3v0I3HWuSnIxFPPjY/edit?gid=0#gid=0)
+
+## Lesson plan
+
+1. Go around the room and have each group report their poster time slot and board number.
+
+2. Finalize your plan with your group for what you are going to say and who is going to say what during your poster presenation.
+
+    * You'll need to cover your rationale, questions and/or hypotheses, methods, and results and discussion of what it all means in about 1-2 minutes! Brainstorm everything you might say, then whittle it down to retain only the most important points.
+
+    * You might want to write out a script but this is not required. When presenting the poster, you want it to sound conversational, not like you are reading from a script (since the main point of presenting posters is to get conversations started). However writing out a script is a good way to force you to figure out exactly what you want to say so that you're not fumbling or rambling on presentation day. 
+
