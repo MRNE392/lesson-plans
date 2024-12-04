@@ -1,5 +1,5 @@
 ---
-title: "Poster practice"
+title: "Skills and knowledge inventory"
 output: html_document
 css: style.css
 ---
